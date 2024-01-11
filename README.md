@@ -3,7 +3,7 @@
 <!-- 
 ![me](https://github.com/yelim99/yelim99/assets/156084622/63aebc9f-d043-4c19-8a4f-c679b4fc4fbf) -->
 
-<img src="https://github.com/yelim99/yelim99/assets/156084622/63aebc9f-d043-4c19-8a4f-c679b4fc4fbf" width="60%"/>
+<img src="https://github.com/yelim99/yelim99/assets/156084622/63aebc9f-d043-4c19-8a4f-c679b4fc4fbf" width="50%"/>
 
 
 # 😊 민예림 Min YeLim
