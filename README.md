@@ -1,7 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi,%20there!&animation=fadeIn&fontSize=90)
 
+<!-- 
+![me](https://github.com/yelim99/yelim99/assets/156084622/63aebc9f-d043-4c19-8a4f-c679b4fc4fbf) -->
 
-![me](https://github.com/yelim99/yelim99/assets/156084622/63aebc9f-d043-4c19-8a4f-c679b4fc4fbf)
+<img src="https://github.com/yelim99/yelim99/assets/156084622/63aebc9f-d043-4c19-8a4f-c679b4fc4fbf" width="60%"/>
 
 
 # 😊 민예림 Min YeLim
