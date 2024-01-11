@@ -10,7 +10,7 @@
 ---
 
 ### 📗 Education
-- 멀티캠퍼스 교육 (Multicampus Education)
+- 멀티캠퍼스 교육 수료 (Multicampus Education)
     - 백엔드 개발자 (Backend Developer)
     - 2023.02 ~ 2023.07
 
