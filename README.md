@@ -10,6 +10,7 @@
 
 ### 😶‍🌫️ TMI
 - ISFP: 엄청난 집순이
+- 게임만 하면 승부욕 발동
 - 취미: 드라마, 영화보기
 - 좋아하는 가수: 잔나비, DAY6, 비투비
 
@@ -51,6 +52,12 @@
 ### 🗃️ Project  
 
 #### 🐕 [Bone](http://152.69.234.5:8080/app/)
+
+![bone2](https://github.com/yelim99/yelim99/assets/156084622/4417872b-7c41-4e13-8600-89e98167d886)
+
+<img src="https://github.com/yelim99/yelim99/assets/156084622/4417872b-7c41-4e13-8600-89e98167d886" width="80%">
+
+
 
 ---
 
