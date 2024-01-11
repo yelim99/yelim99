@@ -22,15 +22,14 @@
 ---
 
 
-### 🖍 Used
+### 👍 Used
 ![HTML](https://img.shields.io/badge/-HTML-C90000?style=for-the-badge&logo=HTML&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-FFE400?style=for-the-badge&logo=CSS&logoColor=white)  
  ![JAVA](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=Java&logoColor=ffffff) 
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white) 
 
 ---
-<br/>
 
-###  GitHub Stats
+### ✏ GitHub Stats
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=yelim99)](https://github.com/yelim99)
