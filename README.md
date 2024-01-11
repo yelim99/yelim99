@@ -7,7 +7,8 @@
 ---
 
 ### 📗 Education
-- 멀티캠퍼스 백엔드 개발자 교육 (Multicampus Backend Developer Education)
+- 멀티캠퍼스 교육 (Multicampus Education)
+    - 백엔드 개발자 (Backend Developer)
     - 2023.02 ~ 2023.07
 
 - SSAFY 11th
