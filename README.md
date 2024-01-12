@@ -43,10 +43,13 @@
 ### 👍 Used
 ![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
-![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=ffffff)
  ![JAVA](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=ffffff)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white) 
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)  
 ![Oracle](https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+
 
 ---
 
@@ -70,7 +73,9 @@
 ### 🙏 Want
 - 기초가 탄탄한 개발자
 - 치열하게 고민하고 생각하는 개발자
+
 ---
+
 ### ✏ GitHub Stats
 
 [![yelim99's github stats](https://github-readme-stats.vercel.app/api?username=yelim99&show_icons=true&theme=radical)](https://github.com/yelim99)
