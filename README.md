@@ -62,12 +62,17 @@
 
 <img src="https://github.com/yelim99/yelim99/assets/156084622/4417872b-7c41-4e13-8600-89e98167d886" width="80%">
 
+
+#### 🏃‍♀️ [BODYBUDDY](https://github.com/yelim99/BODYBUDDY/tree/master)
+
+<img src="https://github.com/yelim99/yelim99/assets/156084622/34b1c5b5-7646-48d6-bdd5-567663e9f847" width="80%">
+
+
 ---
 
 ### 💡 Goal
 - 1일 1알
 - 알고리즘 스터디
-- SW 역량테스트 A등급 이상 취득
 
 ---
 
@@ -75,8 +80,8 @@
 - 기초가 탄탄한 개발자
 - 치열하게 고민하고 생각하는 개발자
 
----
+<!-- ---
 
-### ✏ GitHub Stats
+ ### ✏ GitHub Stats
 
-[![yelim99's github stats](https://github-readme-stats.vercel.app/api?username=yelim99&show_icons=true&theme=radical)](https://github.com/yelim99)
+[![yelim99's github stats](https://github-readme-stats.vercel.app/api?username=yelim99&show_icons=true&theme=radical)](https://github.com/yelim99) -->
